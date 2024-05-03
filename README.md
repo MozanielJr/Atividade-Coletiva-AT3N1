@@ -15,15 +15,23 @@ Crie um projeto (em Java 17) que simule um sistema de reserva e controle de quar
 threads em Java.
 
 O sistema deve representar as seguintes entidades, no mínimo:
+
 ● Quarto
+
 ○ No mínimo, devem existir 10 quartos;
+
 ● Hóspede
+
 ○ Cada hóspede deve ser representado por uma thread;
 ○ No mínimo, devem existir 50 hóspedes;
+
 ● Camareira;
+
 ○ Cada camareira deve ser representada por uma thread;
 ○ No mínimo, devem existir 10 camareiras;
+
 ● Recepcionista:
+
 ○ Cada recepcionista deve ser representado por uma thread;
 ○ No mínimo, devem existir 5 recepcionistas;
 E deve se basear na seguintes regras:
